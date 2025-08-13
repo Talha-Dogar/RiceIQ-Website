@@ -5,3 +5,7 @@ New/riceiq_1/node_modules
 New/riceiq_tmp
 riceiq/node_modules
 backend/uploads
+backend/Flask/app/models/ml_models/saved_files
+backend/Flask/uploads/
+__pycache__/
+*.pyc
